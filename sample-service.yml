@@ -1,1 +1,4 @@
-data= this is from sample service yml
+---
+sevice:
+ prop:This is from sample service yml
+
